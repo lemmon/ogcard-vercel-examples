@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "@vercel/og": "0.6.2"
+  }
+}
