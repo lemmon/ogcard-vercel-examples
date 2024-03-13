@@ -19,21 +19,12 @@ export default async function () {
           padding: 64,
           color: '#040404',
           backgroundColor: '#f2f2f2',
+          fontSize: 80,
+          lineHeight: 1.125,
+          letterSpacing: -1,
           textAlign: 'center',
         },
-        children: [
-          {
-            type: 'div',
-            props: {
-              style: {
-                fontSize: 80,
-                lineHeight: 1.125,
-                letterSpacing: -1,
-              },
-              children: 'Hello 👋',
-            },
-          },
-        ],
+        children: 'Hello There 👋',
       },
     },
     {
